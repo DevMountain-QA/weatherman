@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/DevMountain/weatherman/master/readme-assets/solution.PNG"/>
 
-In this project we'll be building a weather app that allows users to search for the current weather anywhere in the world. We'll make use of the [OpenWeatherMap](https://openweathermap.org/) API and [Redux Promise Middleware](https://github.com/pburtchaell/redux-promise-middleware) to accomplish this in a user friendly fashion.
+In this project we'll be testing a weather app that allows users to search for the current weather anywhere in the world. You can access that app [here](build/index.html).
 
 ## Setup
 
