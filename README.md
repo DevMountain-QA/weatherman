@@ -6,38 +6,6 @@
 
 In this project we'll be testing a weather app that allows users to search for the current weather anywhere in the world. You can access that app [here](build/index.html).
 
-## Setup
-
-* Go to <a href="https://home.openweathermap.org/users/sign_up">OpenWeatherMap</a> and create an account. You'll need an API key to complete this project. 
-  * The API key can take up to 10 minutes to activate.
-* `Fork` and `clone` this repository.
-* `cd` into the project directory.
-* Run `npm i` to install dependencies.
-* Run `npm start` to spin up the development server.
-
-## Step 1
-
-### Summary
-
-In this step, we will create a file that contains and exports our API Key from `OpenWeatherMap`.  The app won't actually run until you've done this step.
-
-### Instructions
-
-* Create a new file in `src` named `apiKey.js`.
-* In `src/apiKey.js` export default your API Key in a string.
-  * You can locate your API Key <a href="https://home.openweathermap.org/api_keys">here</a> after you've signed up and logged in.
-
-### Solution
-
-<details>
-
-<summary> <code> src/apiKey.js </code> </summary>
-
-```js
-export default "API_KEY_HERE";
-```
-
-</details>
 
 ## Step 2
 
