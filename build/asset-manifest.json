@@ -3,11 +3,11 @@
   "main.css.map": "static/css/main.aa0f0f14.css.map",
   "main.js": "static/js/main.b33756f1.js",
   "main.js.map": "static/js/main.b33756f1.js.map",
-  "static/media/cloudy.svg": "static/media/cloudy.f4e9ec05.svg",
-  "static/media/hourglass.svg": "static/media/hourglass.4cb9d9d2.svg",
-  "static/media/partly-cloudy.svg": "static/media/partly-cloudy.7b13fa5f.svg",
-  "static/media/rainy.svg": "static/media/rainy.f32605dc.svg",
-  "static/media/snowy.svg": "static/media/snowy.ee5069be.svg",
-  "static/media/sunny.svg": "static/media/sunny.962bfa48.svg",
-  "static/media/unknown-icon.svg": "static/media/unknown-icon.b8cd83c6.svg"
+  "static/media/cloudy.svg": "https://devmountain-qa.github.io/weatherman/build/static/media/cloudy.f4e9ec05.svg",
+  "static/media/hourglass.svg": "https://devmountain-qa.github.io/weatherman/build/static/media/hourglass.4cb9d9d2.svg",
+  "static/media/partly-cloudy.svg": "https://devmountain-qa.github.io/weatherman/build/static/media/partly-cloudy.7b13fa5f.svg",
+  "static/media/rainy.svg": "https://devmountain-qa.github.io/weatherman/build/static/media/rainy.f32605dc.svg",
+  "static/media/snowy.svg": "https://devmountain-qa.github.io/weatherman/build/static/media/snowy.ee5069be.svg",
+  "static/media/sunny.svg": "https://devmountain-qa.github.io/weatherman/build/static/media/sunny.962bfa48.svg",
+  "static/media/unknown-icon.svg": "https://devmountain-qa.github.io/weatherman/build/static/media/unknown-icon.b8cd83c6.svg"
 }
